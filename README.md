@@ -6,6 +6,7 @@ In ".txt" files there are just numbers which represents the distance matrix. ".a
 - amount of generations
 - population size
 - tournament size
+
 After pressing "Execute algorithm" button you will get the following output:
 - cost of the shortest found path
 - execution time in milliseconds
