@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows.Forms;
 
-namespace TSP_Genetic_algorithm
+namespace TSP_Genetic_Algorithm
 {
     static class Program
     {

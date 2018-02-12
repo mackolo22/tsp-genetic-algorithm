@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Diagnostics;
 
-namespace TSP_Genetic_algorithm
+namespace TSP_Genetic_Algorithm
 {
     /// <summary>
     /// Main class of the program - it implements the algorithm

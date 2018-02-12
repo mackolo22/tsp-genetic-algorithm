@@ -1,4 +1,4 @@
-﻿namespace TSP_Genetic_algorithm
+﻿namespace TSP_Genetic_Algorithm
 {
     partial class FormMain
     {

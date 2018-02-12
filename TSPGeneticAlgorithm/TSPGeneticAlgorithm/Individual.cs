@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace TSP_Genetic_algorithm
+namespace TSP_Genetic_Algorithm
 {
     /// <summary>
     /// Class that represents a tour of cities called individual

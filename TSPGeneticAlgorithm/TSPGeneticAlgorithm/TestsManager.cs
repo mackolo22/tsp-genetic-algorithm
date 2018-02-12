@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.IO;
 
-namespace TSP_Genetic_algorithm
+namespace TSP_Genetic_Algorithm
 {
     /// <summary>
     /// Class that performs time tests for given data

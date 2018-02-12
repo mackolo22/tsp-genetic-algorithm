@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 
-namespace TSP_Genetic_algorithm
+namespace TSP_Genetic_Algorithm
 {
     /// <summary>
     ///  Class which is responsible for loading graphs from .txt and .atsp files

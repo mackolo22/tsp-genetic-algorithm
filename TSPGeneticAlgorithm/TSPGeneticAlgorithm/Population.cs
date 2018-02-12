@@ -1,4 +1,4 @@
-﻿namespace TSP_Genetic_algorithm
+﻿namespace TSP_Genetic_Algorithm
 {
     /// <summary>
     /// Class that represents the collection of individuals (tours)

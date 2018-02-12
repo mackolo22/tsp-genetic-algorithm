@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace TSP_Genetic_algorithm.Properties {
+namespace TSP_Genetic_Algorithm.Properties {
     using System;
     
     
